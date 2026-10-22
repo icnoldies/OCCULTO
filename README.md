@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 12418688_IPA_A1 Welcome to project Occulto by Michal Nowakowski
+#Welcome to project Occulto by Michal Nowakowski
 
 **Introduction:**
 This program has been built to work on Windows Operating System.
