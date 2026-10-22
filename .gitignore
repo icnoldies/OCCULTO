@@ -1,0 +1,20 @@
+cmake-build-debug/
+cmake-build-release/
+.idea/
+*.exe
+*.ilk
+*.pdb
+
+CLion
+
+CMake build directories
+
+build/ cmake-build-debug/ cmake-build-release/ cmake-build-debug-old/
+
+Compiled binaries and debug files
+
+*.exe *.ilk *.pdb *.obj *.o *.a *.lib *.dll
+
+CMake generated files
+
+CMakeFiles/ CMakeCache.txt cmake_install.cmake Makefile
