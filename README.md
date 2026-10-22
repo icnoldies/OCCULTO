@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 12418688_IPA_A1 Welcome to project Occulto by Michal Nowakowski
 
 **Introduction:**
@@ -99,3 +100,7 @@ I would also make it so that when a user changes their mind and no longer wants 
 
 
 
+=======
+# OCCULTO
+Not everything is as it seems. Conceal messages inside images with steganography and turn ordinary pictures into silent carriers of secrets.
+>>>>>>> origin/main
