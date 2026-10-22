@@ -3,7 +3,8 @@
 Not everything is as it seems. Conceal messages inside images with steganography and turn ordinary pictures into silent carriers of secrets.
 
 
-#Welcome to project Occulto by Michal Nowakowski
+
+Welcome to project Occulto by Michal Nowakowski
 
 **Introduction:**
 This program has been built to work on Windows Operating System.
